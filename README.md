@@ -1,3 +1,3 @@
 # Anax Flat
 
-first edition
+This code is part of the BTH course Web Design.
