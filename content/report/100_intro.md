@@ -1,4 +1,5 @@
-Introduction
+Introduktion
 ===============================
 
-Here are my reports for the different kmoms.
+Här är mina redovisningsmaterial för
+de olika kursmomenten
