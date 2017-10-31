@@ -12,33 +12,8 @@ titleBreadcrumb: ME-sida
     margin-left: 15px;
 }
 
-.byline-txt {
-    margin-top: 11px;
-}
-
-.me-small {
-    width: 100px;
-    float: left;
-    margin: 10px;
-    margin-top: 0;
-}
-
 .justify {
     text-align: justify;
-}
-
-.byline {
-    background-color: white;
-    width: 450px;
-    border: 5px solid black;
-    border-radius: 5px;
-    padding: 0;
-    margin: 0;
-    margin-top: 20px;
-    overflow: auto;
-    box-shadow: 3px 3px 5px black;
-    position: inherit;
-    bottom: 155px;
 }
 </style>
 
@@ -56,9 +31,3 @@ Hej och välkomna till min ME-sidan.
 På denna sidan kan du bland annat hitta redovisningsmaterialet till de olika kursmomenten.
 
 Sidan är skapad med [Anax Flat](https://dbwebb.se/anax/inledning/) som grund och är bassidan i dbwebb-kursen *design*.
-
-<div class="byline">
-    <p class="byline-txt"><img src="../htdocs/img/me-small.png" class="me-small" alt="Självpoträtt"><strong>Marcus Holmersson</strong> läser webbprogrammering vid Blekinge Tekniska Högskola och jobbar samtidigt med produktionsteknik på ett medelstort företag.</p>
-
-    <p>Jag bor tillsammans med fru och två söner i en villa i Jämjö, cirka 2 mil utanför Karlskrona i Blekinge.</p>
-</div>
