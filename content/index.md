@@ -2,21 +2,6 @@
 titleBreadcrumb: ME-sida
 ...
 
-<style>
-.me {
-    width: 400px;
-    float: right;
-    border: 5px solid black;
-    border-width: medium;
-    border-radius: 10px;
-    margin-left: 15px;
-}
-
-.justify {
-    text-align: justify;
-}
-</style>
-
 Marcus ME-sida i kursen *Design*
 ===============================
 

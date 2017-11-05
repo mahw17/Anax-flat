@@ -24,4 +24,5 @@ Ramverket *Anax-Flat* är skapat av [Mikael Roos](https://mikaelroos.se) (mos@db
 och sidan är uppdaterad av [Marcus Holmersson.](mailto:mahw17@student.bth.se)
 
 Versionshantering av denna specifika sida hanteras via GitHub och kan ses på
-[mahw17/Anax-flat.](https://github.com/mahw17/Anax-flat)
+[mahw17/Anax-flat](https://github.com/mahw17/Anax-flat) och
+[mahw17/anax-flat-theme.](https://github.com/mahw17/anax-flat-theme)
