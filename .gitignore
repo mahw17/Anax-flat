@@ -1,4 +1,3 @@
-cache
-vendor
-
-[A
+cache/
+vendor/
+theme/
