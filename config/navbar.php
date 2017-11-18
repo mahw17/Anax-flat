@@ -22,7 +22,7 @@ return [
             ],
 
             "report" => [
-                "text"  => t("REDOVISNING"),
+                "text"  => t("Redovisning"),
                 "url"   => $this->di->get("url")->create("report"),
                 "title" => t("Redovisningssida"),
                 "mark-if-parent" => true,
@@ -32,6 +32,18 @@ return [
                 "text"  => t("OM-sida"),
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("Om denna webbsida")
+            ],
+
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("Vertikalt grid")
+            ],
+
+            "typography" => [
+                "text"  => t("Typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Typografiskt grid")
             ],
         ],
     ],
@@ -68,6 +80,18 @@ return [
                 "text"  => t("Om-sida"),
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("Om denna webbsida")
+            ],
+
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("Vertikalt grid")
+            ],
+
+            "typography" => [
+                "text"  => t("Typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Typografiskt grid")
             ],
         ],
     ],
