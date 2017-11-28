@@ -1,17 +1,6 @@
 OM denna sida
 ==============================================
 
-<style>
-.imgAbout {
-    width: 350px;
-    float: right;
-    border: 5px solid black;
-    border-width: medium;
-    border-radius: 10px;
-    margin-left: 15px;
-}
-</style>
-
 <img src="../htdocs/img/web-design-img.jpg" class="imgAbout" alt="web-design-img"/>
 
 Det primära syftet med denna sidan är:
