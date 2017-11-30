@@ -1,7 +1,7 @@
 OM denna sida
 ==============================================
 
-<img src="../htdocs/img/web-design-img.jpg" class="imgAbout" alt="web-design-img"/>
+<img src="../htdocs/img/web-design-img.jpg" class="imgAbout w50" alt="web-design-img"/>
 
 Det primära syftet med denna sidan är:
 

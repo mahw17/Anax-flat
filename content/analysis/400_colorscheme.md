@@ -9,7 +9,7 @@ nämligen Bomag och Hamm.
 
 Dynapac
 ------
-<img src="../htdocs/img/analysis/kmom04/dynapac.png" class="me" alt="Dynapac"/>
+<img src="../htdocs/img/analysis/kmom04/dynapac.png" class="me w50" alt="Dynapac"/>
 
 ###Färgpalett - Monokrom
 
@@ -37,7 +37,7 @@ används accentfärgen enbart till meny vilket jag kan tycka är lite synd att d
 
 Bomag
 ------
-<img src="../htdocs/img/analysis/kmom04/bomag.png" class="me" alt="Bomag"/>
+<img src="../htdocs/img/analysis/kmom04/bomag.png" class="me w50" alt="Bomag"/>
 
 ###Färgpalett - Monokrom
 
@@ -64,7 +64,7 @@ och jag upplever den jobbig att titta på.
 
 Hamm
 ------
-<img src="../htdocs/img/analysis/kmom04/hamm.png" class="me" alt="Hamm"/>
+<img src="../htdocs/img/analysis/kmom04/hamm.png" class="me w50" alt="Hamm"/>
 
 ###Färgpalett - Monokrom
 
@@ -88,4 +88,4 @@ använts och till brödtexten används teckensnittet Verdana. Båda teckensnitte
 ###Allmänt
 Vet knappt om man kan kalla den oranga Hamm-kulören som accentfärg då den används
 ytterst lite på hemsidan. Detta gör att jag upplever sidans 'mall' lite grå, dock är det
-mycket bildobjekt på sidan där färgen istället kommer in och skapar ett bättre helhets intryck. 
+mycket bildobjekt på sidan där färgen istället kommer in och skapar ett bättre helhets intryck.

@@ -59,6 +59,17 @@ return [
                 "mark-if-parent" => true,
             ],
 
+            "images" => [
+                "text"  => t("Bilder"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Bilder")
+            ],
+
+            "blogg" => [
+                "text"  => t("Bildblogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("Bildblogg")
+            ],
         ],
     ],
 
@@ -119,6 +130,18 @@ return [
                 "url"   => $this->di->get("url")->create("analysis"),
                 "title" => t("Analys.sida"),
                 "mark-if-parent" => true,
+            ],
+
+            "images" => [
+                "text"  => t("Bilder"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Bilder")
+            ],
+
+            "blogg" => [
+                "text"  => t("Bildblogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("Bildblogg")
             ],
 
             "theme-selector" => [
