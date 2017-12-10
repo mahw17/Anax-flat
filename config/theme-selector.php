@@ -107,7 +107,7 @@ return [
         "separator3" => "------------------------------------------------",
 
         "design-principle1"      => [
-            "title"      => "Background image, opacity elements, use all window width",
+            "title"      => "Movement, emphasis",
             "class"      => "",
             "stylesheets" => [
                 "css/design-principle1.min.css",
@@ -116,7 +116,7 @@ return [
         ],
 
         "design-principle2"      => [
-            "title"      => "texture, centered, images in the back",
+            "title"      => "Contrast, balance, unity",
             "class"      => "",
             "stylesheets" => [
                 "css/design-principle2.min.css",
