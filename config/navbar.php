@@ -70,6 +70,18 @@ return [
                 "url"   => $this->di->get("url")->create("blogg"),
                 "title" => t("Bildblogg")
             ],
+
+            "design-element" => [
+                "text"  => t("Designteman"),
+                "url"   => $this->di->get("url")->create("design-element"),
+                "title" => t("Designteman")
+            ],
+
+            "design-principle" => [
+                "text"  => t("Designprincip"),
+                "url"   => $this->di->get("url")->create("design-principle"),
+                "title" => t("Designprincip")
+            ],
         ],
     ],
 
@@ -142,6 +154,18 @@ return [
                 "text"  => t("Bildblogg"),
                 "url"   => $this->di->get("url")->create("blogg"),
                 "title" => t("Bildblogg")
+            ],
+
+            "design-element" => [
+                "text"  => t("Designteman"),
+                "url"   => $this->di->get("url")->create("design-element"),
+                "title" => t("Designteman")
+            ],
+
+            "design-principle" => [
+                "text"  => t("Designprinciper"),
+                "url"   => $this->di->get("url")->create("design-principle"),
+                "title" => t("Designprinciper")
             ],
 
             "theme-selector" => [

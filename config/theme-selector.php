@@ -78,6 +78,54 @@ return [
 
         "separator2" => "------------------------------------------------",
 
+        "design-theme1"      => [
+            "title"      => "Background image, opacity elements, use all window width",
+            "class"      => "",
+            "stylesheets" => [
+                "css/design-theme1.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+
+        "design-theme2"      => [
+            "title"      => "texture, centered, images in the back",
+            "class"      => "",
+            "stylesheets" => [
+                "css/design-theme2.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+        "design-theme3"   => [
+            "title"      => "gradient background, line-elements",
+            "class"      => "",
+            "stylesheets" => [
+                "css/design-theme3.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+
+        "separator3" => "------------------------------------------------",
+
+        "design-principle1"      => [
+            "title"      => "Background image, opacity elements, use all window width",
+            "class"      => "",
+            "stylesheets" => [
+                "css/design-principle1.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+
+        "design-principle2"      => [
+            "title"      => "texture, centered, images in the back",
+            "class"      => "",
+            "stylesheets" => [
+                "css/design-principle2.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+
+        "separator4" => "------------------------------------------------",
+
         "fun"       => [
             "title"      => "All fun, test and play, make it stand out!",
             "class"      => "fun",
